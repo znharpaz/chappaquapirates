@@ -1,0 +1,32 @@
+h{
+
+
+  font-size: 100;
+  color: blue;
+
+  background-size: 300px 100px, cover;
+  font-family:fantasy;
+}
+.hi{
+  text-align: center;
+}
+body{
+  background-color: #99ccff;
+}
+
+pre{
+  font-size: 25;
+  font-family: Arial;
+  text-align: center;
+}
+ul{
+  text-align: center;
+  font-size: 50;
+  color: blue;
+}
+div{
+  color: blue;
+  font-size: 60;
+  text-align: center;
+  text-align: Top
+}
